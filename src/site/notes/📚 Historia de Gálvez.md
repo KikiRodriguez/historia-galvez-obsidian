@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/historia-de-galvez/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/historia-de-galvez/","dg-note-properties":{}}
 ---
 
 
-![[galvez-antigua.jpg\|galvez-antigua.jpg]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+![Calle Belgrano 1.jpg](/img/user/Calle%20Belgrano%201.jpg)
+
+</div></div>
+
 
 «[!info]
 Archivo histórico digital de la ciudad de Gálvez, Santa Fe.
