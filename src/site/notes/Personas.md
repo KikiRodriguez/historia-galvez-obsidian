@@ -12,6 +12,33 @@ Markdown
 ---
 
 ## 🔎 Todas las personas
+
+
+# 👥 Personas
+
+## 🔎 Listado completo
+
+```dataview
+table file.name as "Nombre"
+where tipo = "persona"
+sort file.name asc
+
+
+---
+
+# 🔍 SI ESTO TAMPOCO FUNCIONA
+
+Probá esta versión (más flexible todavía):
+
+```markdown
+# 👥 Personas
+
+```dataview
+table file.name
+from ""
+where contains(file.tags, "personas") or tipo = "persona"
+
+
 ```dataview
 table 
   nombre as "Nombre",
