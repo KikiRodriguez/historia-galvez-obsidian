@@ -15,7 +15,7 @@
 </div></div>
 
 
-«[!info]
+>[!info]
 Archivo histórico digital de la ciudad de Gálvez, Santa Fe.
 Un espacio para explorar su pasado, comprender su presente y preservar su memoria.»
 
@@ -23,26 +23,26 @@ Un espacio para explorar su pasado, comprender su presente y preservar su memori
 
 🧭 Explorar
 
-«[!tip] 🏛️ Historia
+>[!tip] 🏛️ Historia
 
 - [[Orígenes\|Orígenes]]
 - [[Fundación de Gálvez\|Fundación de Gálvez]]
 - [[Colonización\|Colonización]]
 - [[Inmigración\|Inmigración]]»
 
-«[!tip] 👥 Sociedad
+>[!tip] 👥 Sociedad
 
 - [[Personajes históricos\|Personajes históricos]]
 - [[Instituciones\|Instituciones]]
 - [[Educación\|Educación]]»
 
-«[!tip] 🌆 Ciudad
+>[!tip] 🌆 Ciudad
 
 - [[Barrios\|Barrios]]
 - [[Plazas\|Plazas]]
 - [[Edificios históricos\|Edificios históricos]]»
 
-«[!tip] 📈 Desarrollo
+>[!tip] 📈 Desarrollo
 
 - [[Economía\|Economía]]
 - [[Industria\|Industria]]
@@ -52,25 +52,25 @@ Un espacio para explorar su pasado, comprender su presente y preservar su memori
 
 ⭐ Artículos destacados
 
-«[!example]
+>[!example]
 
 📍 [[Fundación de Gálvez\|Fundación de Gálvez]]
 
 Origen de la ciudad y primeros asentamientos.»
 
-«[!example]
+>[!example]
 
 🇮🇹 [[Inmigración italiana en Gálvez\|Inmigración italiana en Gálvez]]
 
 Influencia cultural y social en el crecimiento local.»
 
-«[!example]
+>[!example]
 
 🚂 [[Desarrollo del ferrocarril\|Desarrollo del ferrocarril]]
 
 Motor clave del crecimiento económico.»
 
-«[!example]
+>[!example]
 
 🌳 [[Plaza principal\|Plaza principal]]
 
@@ -80,7 +80,7 @@ Centro histórico y social de la ciudad.»
 
 🕰️ Línea de tiempo destacada
 
-«[!quote]
+>[!quote]
 1886 — Fundación de Gálvez
 1900-1950 — Expansión urbana y ferroviaria
 1950-2000 — Industrialización
@@ -92,11 +92,11 @@ Centro histórico y social de la ciudad.»
 
 🗺️ Explorar el archivo completo
 
-«[!abstract]
+>[!abstract]
 
-- 📍 [[🗺️ Lugares\|🗺️ Lugares]]
-- 👤 [[👥 Personas\|👥 Personas]]
-- 📅 [[Eventos históricos\|Eventos históricos]]
+- [[📍Lugares\|📍Lugares]]
+- [[👥 Personas\|👥 Personas]]
+- 📅 [[📆 Eventos históricos\|📆 Eventos históricos]]
 - 🏛️ [[Instituciones\|Instituciones]]
 - 🗂️ [[Mapa del sitio\|Mapa del sitio]]»
 
@@ -104,7 +104,7 @@ Centro histórico y social de la ciudad.»
 
 🖼️ Archivo visual
 
-«[!gallery]
+>[!gallery]
 ![[foto1.jpg\|foto1.jpg]]
 ![[foto2.jpg\|foto2.jpg]]
 ![[foto3.jpg\|foto3.jpg]]»
@@ -119,7 +119,7 @@ Este archivo digital busca preservar la historia de Gálvez mediante la recopila
 
 🤝 Participar
 
-«[!info]
+>[!info]
 ¿Tenés fotos, documentos o historias familiares?
 Podés contribuir a este archivo y ayudar a reconstruir la memoria colectiva de la ciudad.»
 

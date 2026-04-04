@@ -116,5 +116,5 @@
 ## 🧭 Relación con el sistema
 
 - [[📚 Historia de Gálvez\|📚 Historia de Gálvez]]
-- [[🗺️ Lugares\|🗺️ Lugares]]
+- [[📍Lugares\|📍Lugares]]
 - [[Eventos\|Eventos]]
