@@ -24,6 +24,6 @@
 
 ## 🧭 Relación con el sistema
 
-- [[Home\|Home]]
+- [[📚 Historia de Gálvez\|📚 Historia de Gálvez]]
 - [[Lugares\|Lugares]]
 - [[Eventos\|Eventos]]
