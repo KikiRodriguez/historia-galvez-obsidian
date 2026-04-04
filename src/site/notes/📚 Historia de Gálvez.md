@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/historia-de-galvez/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/historia-de-galvez/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
