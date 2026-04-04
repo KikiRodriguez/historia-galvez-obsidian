@@ -95,7 +95,7 @@ Centro histórico y social de la ciudad.»
 «[!abstract]
 
 - 📍 [[Lugares\|Lugares]]
-- 👤 [[Personas\|Personas]]
+- 👤 [[👥 Personas\|👥 Personas]]
 - 📅 [[Eventos históricos\|Eventos históricos]]
 - 🏛️ [[Instituciones\|Instituciones]]
 - 🗂️ [[Mapa del sitio\|Mapa del sitio]]»
