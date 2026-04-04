@@ -4,13 +4,13 @@
 
 
 
-[[Ariel Ramírez\|Ariel Ramírez]]
+[[Personas/Ariel Ramírez\|Ariel Ramírez]]
 
 [[Benjamín Lúquez\|Benjamín Lúquez]]
 
 [[Ágata Galiffi\|Ágata Galiffi]]
 
-[[Juan Chicho Galiffi\|Juan Chicho Galiffi]]
+[[Personas/Juan Chicho Galiffi\|Juan Chicho Galiffi]]
 
 [[Crisóstomo Montenegro\|Crisóstomo Montenegro]]
 
