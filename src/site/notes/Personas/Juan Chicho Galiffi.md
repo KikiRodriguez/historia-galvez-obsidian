@@ -4,20 +4,12 @@
 
 >[!info]
 Nombre completo: Juan Galiffi
-
->Nacimiento: 09/12/1892 en Ravanusa, pequeña localidad de Sicilia
->
+Nacimiento: 09/12/1892 en Ravanusa, pequeña localidad de Sicilia
 Fallecimiento: 25/01/1943 en Milán, Italia
 Nacionalidad: italiano
-
-
->Ocupación: peluquero, mafioso
-
-
->Rol en Gálvez: empresario
-
-
->Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]] • [[Tema 2\|Tema 2]]»
+Ocupación: peluquero, mafioso
+Rol en Gálvez: empresario
+Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]] • [[Tema 2\|Tema 2]]»
 
 ---
 
