@@ -3,4 +3,4 @@
 ---
 
 
-![Calle Belgrano 1.jpg](/img/user/Calle%20Belgrano%201.jpg)
+![Calle Belgrano 1.jpg](/img/user/G%C3%A1lvez%20-%20Lugares/Calle%20Belgrano%201.jpg)

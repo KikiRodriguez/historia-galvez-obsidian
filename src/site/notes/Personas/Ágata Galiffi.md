@@ -67,4 +67,4 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 #persona #historia #galvez
 
-[[Ágata Galiffi historia y leyenda de la flor de la mafia\|Ágata Galiffi historia y leyenda de la flor de la mafia]]
+[[Personas - Galiffi Juan y Ágata/Ágata Galiffi historia y leyenda de la flor de la mafia\|Ágata Galiffi historia y leyenda de la flor de la mafia]]

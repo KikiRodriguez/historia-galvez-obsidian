@@ -79,8 +79,8 @@ Su padre se casó en segundas nupcias con Eduviges Villarruel, con quien tuvo do
 - Sara Calista y Celia Esmeralda. No sé nada más de ellas. 
 Cuando Eduviges quedó viuda, se casó con otro hombre y tuvo, al menos, otros tres hijos. 
 
-[[1904 - B. Luquez - Servicio Militar\|1904 - B. Luquez - Servicio Militar]]
-[[26-12-1906 - Aviso en diario la Protesta\|26-12-1906 - Aviso en diario la Protesta]]
+[[Personas - Benjamín Luquez/1904 - B. Luquez - Servicio Militar\|1904 - B. Luquez - Servicio Militar]]
+[[Personas - Benjamín Luquez/26-12-1906 - Aviso en diario la Protesta\|26-12-1906 - Aviso en diario la Protesta]]
 
 
 
@@ -126,7 +126,7 @@ Desterrados al presidio de la Tierra del Fuego.
 | Vicente Arcediácono | » 14 | » 15 | » | » |
 
 Diario “La Vanguardia”, 30 de septiembre. Se menciona que Benjamín está preso en la Isla de los Estados, junto con otros compañeros. Se dice también que el listado fue facilitado por las familias.
-<iframe src="/img/user/LV%20-1910-09-30.pdf" width="100%" height="900px" title="LV -1910-09-30.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/%F0%9F%93%9C%20PDFs/La%20Vanguardia-1910-09-30.pdf" width="100%" height="900px" title="La Vanguardia-1910-09-30.pdf" style="border:1px solid #ccc;"></iframe>
 Imagen 3: Diario “La Vanguardia”, 30 de septiembre ****
 > Hasta el momento de levantarse el estado de sitio seguían detenidos en la Isla de los Estados los siguientes: Humberto Bianchetti, pintor; Bernardo Siciliano, cortador de calzado; Pedro López, cortador de calzado; José Listuzzi, estibador; Severio Caporaletti, correo; Pedro Leandro, carpintero; Tircio Zárate, carpintero; Juan Bianchini, albañil; Roque Sumiza, pintor; Marcelino Torres, empleado; Carlos Balzán, empleado; Teodoro Antilli, empleado; Apolinario Barreras, empleado; Rodolfo Pacheco, empleado; Gregorio del Valle, panadero; Benjamín Luquez, dependiente; Juan Tomás Sturla, jornalero; Bernardo Ibáñez, jornalero; Félix Godoy, albañil; Juan Bracamonte, panadero; Pedro Bongiorno, calderero; Francisco Devoto, calderero; Federico Onetto, calderero; Vicente Arcediácono, calderero; Gabriel Curtis, dibujante.
 > Debemos hacer constar que esta nómina nos ha sido facilitada por las familias de los mismos presos, pues la policía se negó siempre á suministrar datos al respecto.
@@ -139,7 +139,7 @@ LOS DEPORTADOS - EN VIAJE A BUENOS AIRES
 
 
 La Vanguardia, 18 de enero de 1911. Hay un problema con el dinero que el “Comité Pro-presos” envió a los liberados de Ushuaia. No entiendo el conflicto. Página 2, quinta columna, al final “Diversas”.
-<iframe src="/img/user/LV-1911-01-18.pdf" width="100%" height="900px" title="LV-1911-01-18.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/%F0%9F%93%9C%20PDFs/La%20Vanguardia-1911-01-18.pdf" width="100%" height="900px" title="La Vanguardia-1911-01-18.pdf" style="border:1px solid #ccc;"></iframe>
 
 
 https://americalee.cedinci.org/s/americalee/page/bienvenides (buscar alli, el enlace se cayó pero debería estar allí)
@@ -156,11 +156,11 @@ Imagen 5: Suplemento de la revista “Todo es historia”
 
 Diarios Internacionales que se solidarizaron con los presos.
 Diario español “Solidaridad obrera”: mencionan a Benjamín y señalan que fueron deportados sin dar aviso previo a las familias (2 de septiembre de 1910, la nota comienza en la primera página “Agitación necesaria”)
-<iframe src="/img/user/00030.pdf" width="100%" height="900px" title="00030.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/%F0%9F%93%9C%20PDFs/Solidaridad%20Obrera-1910-09-02.pdf" width="100%" height="900px" title="Solidaridad Obrera-1910-09-02.pdf" style="border:1px solid #ccc;"></iframe>
 https://www.cedall.org/Documentacio/Premsa%20Llibertaria/Soli/2%20epoca/00030.pdf
 
 Diario “El hambriento” (Perú)
-<iframe src="/img/user/el-hambriento-1910-nc2ba60.pdf" width="100%" height="900px" title="el-hambriento-1910-nc2ba60.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/%F0%9F%93%9C%20PDFs/El-Hambriento-1910-periodico%20de%20Per%C3%BA%20Lima.pdf" width="100%" height="900px" title="El-Hambriento-1910-periodico de Perú Lima.pdf" style="border:1px solid #ccc;"></iframe>
 https://www.marxists.org/espanol/tematica/kiosko/peru/elhambriento/el-hambriento-1910-nc2ba60.pdf
 
 Imagen 6: Diario “El hambriento” (Perú) ****

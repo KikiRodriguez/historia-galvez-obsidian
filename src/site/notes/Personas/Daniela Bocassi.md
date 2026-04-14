@@ -66,4 +66,4 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 #persona #historia #galvez
 
-[[Poema Daniela Bocassi\|Poema Daniela Bocassi]]
+[[Personas - Daniela Bocassi/Poema Daniela Bocassi\|Poema Daniela Bocassi]]
