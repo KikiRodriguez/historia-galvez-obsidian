@@ -15,7 +15,7 @@
 </div></div>
 
 
->[!info]
+>[!tip] ℹ️ Info
 
 Archivo histórico digital de la ciudad de Gálvez, Santa Fe.
 Un espacio para explorar su pasado, comprender su presente y preservar su memoria.»
