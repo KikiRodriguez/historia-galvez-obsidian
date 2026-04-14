@@ -10,9 +10,12 @@ Nombre completo: Juan Galiffi
 Fallecimiento: 25/01/1943 en Milán, Italia
 Nacionalidad: italiano
 
+
 >Ocupación: peluquero, mafioso
 
+
 >Rol en Gálvez: empresario
+
 
 >Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]] • [[Tema 2\|Tema 2]]»
 
