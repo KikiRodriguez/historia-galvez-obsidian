@@ -3,7 +3,7 @@
 ---
 
 
-«[!info]
+>[!Info] 
 Nombre completo: Ágata Galiffi
 Nacimiento: {{Fecha y lugar}}
 Fallecimiento: {{Fecha y lugar}}
@@ -14,13 +14,13 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🧾 Resumen
+>[!tip] 🧾 Resumen
 
 {{Quién fue y por qué es importante en Gálvez}}
 
 ---
 
-📜 Biografía
+>[!tip]  📜 Biografía
 
 🔹 Orígenes
 
@@ -36,13 +36,13 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🏛️ Importancia histórica
+>[!tip]  🏛️ Importancia histórica
 
 {{Por qué es relevante}}
 
 ---
 
-🧩 Relacionado
+>[!tip]  🧩 Relacionado
 
 - [[Evento importante\|Evento importante]]
 - [[Institución\|Institución]]
@@ -50,21 +50,20 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🖼️ Imágenes
+>[!tip]  🖼️ Imágenes
 
 ![[persona.jpg\|persona.jpg]]
 
 ---
 
-📚 Fuentes
+>[!tip]  📚 Fuentes
 
 - {{Fuente}}
 - {{Fuente}}
 
 ---
 
-🏷️ Etiquetas
-
+>[!tip]  🏷️ Etiquetas
 #persona #historia #galvez
 
 [[Personas - Galiffi Juan y Ágata/Ágata Galiffi historia y leyenda de la flor de la mafia\|Ágata Galiffi historia y leyenda de la flor de la mafia]]

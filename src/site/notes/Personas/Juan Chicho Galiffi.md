@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/personas/juan-chicho-galiffi/","dg-note-properties":{}}
 ---
 
->[!info]
+>[!Info] 
 Nombre completo: Juan Galiffi
 Nacimiento: 09/12/1892 en Ravanusa, pequeña localidad de Sicilia
 Fallecimiento: 25/01/1943 en Milán, Italia
 Nacionalidad: italiano
 Ocupación: peluquero, mafioso
 Rol en Gálvez: empresario
-Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]] • [[Tema 2\|Tema 2]]»
+Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]]
 
 ---
 
-🧾 Resumen
+>[!tip] 🧾 Resumen
 
 Juan Galiffi fue uno de los personajes más emblemáticos de la mafia siciliana en la ciudad de Rosario a comienzos del siglo XX.
 
@@ -21,7 +21,7 @@ Este inmigrante comienza a rearmar su vida de este lado del Atlántico como empl
 
 ---
 
-📜 Biografía
+>[!tip] 📜 Biografía
 
 🔹 Orígenes
 Llega a Argentina en mayo de 1910. 
@@ -39,19 +39,9 @@ Siguiendo el modus operandi de la mafia siciliana, el dinero que conseguían est
 
 La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pusiera la lupa en **Galiffi** y su banda. Por este motivo, el mismo año del asesinato de **Marrone** ([[Personas/Chicho Chico\|Chicho Chico]]), se le revoca la ciudadanía argentina y es deportado a Italia. Muere en **1943**, en un bombardeo en **Milán** contra el régimen de **[Benito Mussolini](https://es.wikipedia.org/wiki/Benito_Mussolini)**, de quien supo ser amigo. Su vida inspiró muchas películas argentinas, como **“La maffia”** de Leopoldo Tore Nilsson.
 
-🔹 Relación con Gálvez
-
-{{Qué hizo específicamente en la ciudad}}
-
 ---
 
-🏛️ Importancia histórica
-
-{{Por qué es relevante}}
-
----
-
-🧩 Relacionado
+>[!tip] 🧩 Relacionado
 
 - [[Evento importante\|Evento importante]]
 - [[Institución\|Institución]]
@@ -60,7 +50,7 @@ La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pu
 
 ---
 
-🖼️ Imágenes
+>[!tip] 🖼️ Imágenes
 
 ![JuanGaliffi.jpg](/img/user/%F0%9F%96%BC%EF%B8%8F%20Im%C3%A1genes/JuanGaliffi.jpg)
 
@@ -68,15 +58,14 @@ La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pu
 
 ---
 
-📚 Fuentes
+>[!tip] 📚 Fuentes
 
 - https://rosario.italiani.it/juan-galiffi-huellas-de-la-mafia-siciliana-en-rosario/
 - Facebook Comisión Est Hist Berazategui
 
 ---
 
-🏷️ Etiquetas
-
+>[!tip] 🏷️ Etiquetas
 #persona #historia #galvez
 
 
