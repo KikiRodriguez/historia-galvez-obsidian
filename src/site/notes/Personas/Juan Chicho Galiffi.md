@@ -15,7 +15,9 @@ Relacionado: Padre de [[Personas/Ágata Galiffi\|Ágata Galiffi]] • [[Tema 2\|
 
 🧾 Resumen
 
-{{Quién fue y por qué es importante en Gálvez}}
+Juan Galiffi fue uno de los personajes más emblemáticos de la mafia siciliana en la ciudad de Rosario a comienzos del siglo XX.
+
+Este inmigrante comienza a rearmar su vida de este lado del Atlántico como empleado de una fábrica, para luego adquirir una barbería y, finalmente, sin estar claro cómo, ser dueño de una cantina, comprar viñedos, propiedades y caballos. Este ascenso se dio de forma brusca, al mismo tiempo que empezaba a rodearse de pesos pesados y a actuar como nexo entre todos estos.
 
 ---
 
@@ -28,8 +30,14 @@ En Rosario, Galiffi solía parar en Mitre 1379, donde vivía la familia de su es
 En Gálvez vivía su hermano, **Carlos Galiffi**. Los problemas no tardaron en manifestarse, ya que en la noche del 29 de enero de 1919 un grupo de hombres nunca identificados asesinó a tiros a Carlos Galiffi, junto con los hermanos **Francisco y Salvador Costello**, cuando iban a una chacra, a quince cuadras del pueblo.
 
 🔹 Trayectoria
+**Rosario: una de las sedes de la mafia**
+**Durante el principio del 1900** 
+Rosario era conocida como la “Chicago argentina”, en alusión al control que tenian las mafias italianas lideradas por Johnny Torrio y Al Capone en la ciudad estadounidense. Galiffi tuvo un papel clave, y al igual que ellos, supo armar su imperio criminal a través del juego clandestino, la prostitución, las carreras de caballos y las extorsiones. De este modo, sembró el terror en la ciudad y obligó a muchos a permanecer callados por miedo a represalias.
 
-{{Vida, trabajo, impacto}}
+**Los crímenes de Juan Galiffi**
+Siguiendo el modus operandi de la mafia siciliana, el dinero que conseguían estos gángsters provenía de extorsiones y secuestros extorsivos de familias acomodadas. En 1932, la banda liderada por Galiffi secuestra en Córdoba a Abel Ayerza Arning, un joven estudiante de medicina de una familia pudiente de reconocidos médicos. Abel se encontraba con un amigo, Ricardo Hueyo, hijo del Ministro de Hacienda de la Nación. Al involucrarse la Policía de la Capital Federal, Chicho decide liberar a Hueyo y retener a Abel. Tras el pago del rescate por parte de la familia de Ayerza Arning, se produce un error al transmitirles a los mafiosos que el dinero había sido entregado, y como consecuencia matan al estudiante de cinco balazos.
+
+La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pusiera la lupa en **Galiffi** y su banda. Por este motivo, el mismo año del asesinato de **Marrone**, se le revoca la ciudadanía argentina y es deportado a Italia. Muere en **1943**, en un bombardeo en **Milán** contra el régimen de **[Benito Mussolini](https://es.wikipedia.org/wiki/Benito_Mussolini)**, de quien supo ser amigo. Su vida inspiró muchas películas argentinas, como **“La maffia”** de Leopoldo Tore Nilsson.
 
 🔹 Relación con Gálvez
 
