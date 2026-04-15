@@ -15,9 +15,17 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🧾 Resumen
+>[!tip]  🧾 Resumen
 
-{{Quién fue y por qué es importante en Gálvez}}
+Benjamín Florentino Lúquez (1884) es hijo de Benjamín Gerardo Lúquez y María de la Cruz García (María de la Cruz Pavón, figura con los dos apellidos). Nació en San Nicolás, pero de chiquito su familia se mudó a Rosario. Su madre falleció entre 1896 y 1898 y su padre entre 1902 y 1905. Del enlace entre María de la Cruz y Benjamín, nacieron los siguientes hijos:
+- Delia (falleció de pequeña).
+- Emelia/Evelia/Evelina de la Cruz (1889): el último documento que tengo de ella es del censo de 1895.
+- Gervasio (1891): parece que también fue anarquista. Encontré suscripciones con su nombre en el diario “La Protesta”. También recibía cartas en el diario. Usaba el apellido “Lúquez”. 
+- María de la Cruz/Crucita (1893-1979). Creo que cuando los padres fallecieron, a Crucita la mandaron a vivir con sus abuelos maternos a San Nicolás, donde vivió casi toda su vida. Crucita usaba el apellido “Luque García”. 
+
+Su padre se casó en segundas nupcias con Eduviges Villarruel, con quien tuvo dos hijas: 
+- Sara Calista y Celia Esmeralda. No sé nada más de ellas. 
+Cuando Eduviges quedó viuda, se casó con otro hombre y tuvo, al menos, otros tres hijos. 
 
 ---
 
@@ -67,17 +75,6 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 🏷️ Etiquetas
 
 #persona #historia #galvez 
-
-
-Benjamín Florentino Lúquez (1884) es hijo de Benjamín Gerardo Lúquez y María de la Cruz García (María de la Cruz Pavón, figura con los dos apellidos). Nació en San Nicolás, pero de chiquito su familia se mudó a Rosario. Su madre falleció entre 1896 y 1898 y su padre entre 1902 y 1905. Del enlace entre María de la Cruz y Benjamín, nacieron los siguientes hijos:
-- Delia (falleció de pequeña).
-- Emelia/Evelia/Evelina de la Cruz (1889): el último documento que tengo de ella es del censo de 1895.
-- Gervasio (1891): parece que también fue anarquista. Encontré suscripciones con su nombre en el diario “La Protesta”. También recibía cartas en el diario. Usaba el apellido “Lúquez”. 
-- María de la Cruz/Crucita (1893-1979). Creo que cuando los padres fallecieron, a Crucita la mandaron a vivir con sus abuelos maternos a San Nicolás, donde vivió casi toda su vida. Crucita usaba el apellido “Luque García”. 
-
-Su padre se casó en segundas nupcias con Eduviges Villarruel, con quien tuvo dos hijas: 
-- Sara Calista y Celia Esmeralda. No sé nada más de ellas. 
-Cuando Eduviges quedó viuda, se casó con otro hombre y tuvo, al menos, otros tres hijos. 
 
 [[Personas - Benjamín Luquez/1904 - B. Luquez - Servicio Militar\|1904 - B. Luquez - Servicio Militar]]
 [[Personas - Benjamín Luquez/26-12-1906 - Aviso en diario la Protesta\|26-12-1906 - Aviso en diario la Protesta]]
