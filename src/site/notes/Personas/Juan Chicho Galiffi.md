@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/personas/juan-chicho-galiffi/","dg-note-properties":{}}
 ---
 
->[!Info] 
+>[!tip] ℹ️ Info
+
 Nombre completo: Juan Galiffi
 Nacimiento: 09/12/1892 en Ravanusa, pequeña localidad de Sicilia
 Fallecimiento: 25/01/1943 en Milán, Italia

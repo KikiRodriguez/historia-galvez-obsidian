@@ -16,11 +16,11 @@ Los postes de sostén de las lámparas dieron años más tarde, origen a un entr
 
 No obstante la incorporación de las lámparas LUX, teniendo en 1911, 22 unidades instaladas; el sistema de iluminación no era lo suficientemente satisfactorio.
 
-Además este alumbrado no se lo encendía en las noches de luna. (172)
+Además este alumbrado no se lo encendía en las noches de luna. (1)
 
 En cuanto al sueldo del farolero y otros trabajos; la Comisión de Fomento, en la sesión del 13 de Enero de 1908, establece:
 
-"Farolero, sesenta y cinco pesos, debiendo preferirle en los trabajos de calles, en la época quo no tenga encendida" (173)
+"Farolero, sesenta y cinco pesos, debiendo preferirle en los trabajos de calles, en la época quo no tenga encendida" (2)
 
 Lo que significa que si había trabajo de limpieza de calles en los días que no se encendían las lámparas, tenía preferencia para solicitar hacer esas tareas y percibir el sueldo completo.
 
@@ -30,5 +30,5 @@ En el mes de Febrero de 1911 tiene lugar la propuesta de Guido Herberlein para l
 IMAGEN
 Año 1913-El primer grupo electrógeno que se instaló.
 
-(172) A.M.G. L.A.c.F.T. (1) 1902-1914-F. 133. 
-(173) A.M.G. L.A.C.F.-T. (1)1902-1914-F. 80.
+(1) A.M.G. L.A.c.F.T. (1) 1902-1914-F. 133. 
+(2) A.M.G. L.A.C.F.-T. (1)1902-1914-F. 80.

@@ -3,46 +3,25 @@
 ---
 
 
-«[!info]
+>[!tip] ℹ️ Info
+
 Nombre completo: Ariel Ramírez 
-Nacimiento: {{Fecha y lugar}}
-Fallecimiento: {{Fecha y lugar}}
-Nacionalidad: {{}}
-Ocupación: {{}}
+Nacimiento: 4 de septiembre 1921
+Fallecimiento: 18 de febrero 2010, en Monte Grande, Buenos Aires 
+Nacionalidad: argentina 
+Ocupación: músico, compositor y pianista 
 Rol en Gálvez: {{}}
 Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🧾 Resumen
+>[!tip]  🧾 Resumen
 
-{{Quién fue y por qué es importante en Gálvez}}
-
----
-
-📜 Biografía
-
-🔹 Orígenes
-
-{{Infancia, familia, contexto}}
-
-🔹 Trayectoria
-
-{{Vida, trabajo, impacto}}
-
-🔹 Relación con Gálvez
-
-{{Qué hizo específicamente en la ciudad}}
+Fue un músico, compositor y pianista argentino de extensa trayectoria, considerado como una de las figuras más destacadas del nativismo argentino. Difusor de la cultura tradicional a través de una amplia discografía y de sus actuaciones al frente de su compañía de folclore desde 1955 hasta 1980. Autor de numerosas canciones criollistas sumamente populares y de la Misa Criolla, una de las obras más importantes de la música argentina. Fue elegido presidente de SADAIC (Sociedad Argentina de Autores y Compositores de Música), en cinco períodos: 1970/74, 1974/77, 1993/97, 1997/2001 y 2001/2005.
 
 ---
 
-🏛️ Importancia histórica
-
-{{Por qué es relevante}}
-
----
-
-🧩 Relacionado
+>[!tip]  🧩 Relacionado
 
 - [[Evento importante\|Evento importante]]
 - [[Institución\|Institución]]
@@ -50,19 +29,18 @@ Relacionado: [[Tema 1\|Tema 1]] • [[Tema 2\|Tema 2]]»
 
 ---
 
-🖼️ Imágenes
+>[!tip]  🖼️ Imágenes
 
 ![[persona.jpg\|persona.jpg]]
 
 ---
 
-📚 Fuentes
+>[!tip]  📚 Fuentes
 
-- {{Fuente}}
-- {{Fuente}}
+- https://es.wikipedia.org/wiki/Ariel_Ram%C3%ADrez
 
 ---
 
-🏷️ Etiquetas
+>[!tip]  🏷️ Etiquetas
 
 #persona #historia #galvez 
