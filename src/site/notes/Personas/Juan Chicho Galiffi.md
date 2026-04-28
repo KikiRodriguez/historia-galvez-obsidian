@@ -38,6 +38,8 @@ Rosario era conocida como la “Chicago argentina”, en alusión al control que
 **Los crímenes de Juan Galiffi**
 Siguiendo el modus operandi de la mafia siciliana, el dinero que conseguían estos gángsters provenía de extorsiones y secuestros extorsivos de familias acomodadas. En 1932, la banda liderada por Galiffi secuestra en Córdoba a Abel Ayerza Arning, un joven estudiante de medicina de una familia pudiente de reconocidos médicos. Abel se encontraba con un amigo, Ricardo Hueyo, hijo del Ministro de Hacienda de la Nación. Al involucrarse la Policía de la Capital Federal, Chicho decide liberar a Hueyo y retener a Abel. Tras el pago del rescate por parte de la familia de Ayerza Arning, se produce un error al transmitirles a los mafiosos que el dinero había sido entregado, y como consecuencia matan al estudiante de cinco balazos.
 
+![saviano-mafia-italiana.jpg](/img/user/saviano-mafia-italiana.jpg)
+
 La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pusiera la lupa en **Galiffi** y su banda. Por este motivo, el mismo año del asesinato de **Marrone** ([[Personas/Chicho Chico\|Chicho Chico]]), se le revoca la ciudadanía argentina y es deportado a Italia. Muere en **1943**, en un bombardeo en **Milán** contra el régimen de **[Benito Mussolini](https://es.wikipedia.org/wiki/Benito_Mussolini)**, de quien supo ser amigo. Su vida inspiró muchas películas argentinas, como **“La maffia”** de Leopoldo Tore Nilsson.
 
 ---
@@ -55,7 +57,7 @@ La conmoción por el crimen de Abel Ayerza hizo que la **Justicia Federal** pu
 
 ![JuanGaliffi.jpg](/img/user/%F0%9F%96%BC%EF%B8%8F%20Im%C3%A1genes/JuanGaliffi.jpg)
 
-![ChichoChicoMarrone.jpg](/img/user/ChichoChicoMarrone.jpg)
+![ChichoChicoMarrone.jpg](/img/user/%F0%9F%96%BC%EF%B8%8F%20Im%C3%A1genes/ChichoChicoMarrone.jpg)
 
 ---
 

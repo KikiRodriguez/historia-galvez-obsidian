@@ -3,7 +3,7 @@
 ---
 
 
-![Gálvez](/img/user/galvez-antigua.jpg.md)
+![Gálvez](galvez-antigua.jpg.md)
 
 >[!tip] ℹ️ Info
 
